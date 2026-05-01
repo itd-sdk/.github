@@ -1,3 +1,3 @@
-![](banner.png)
+![](/banner.png)
 
 https://itdsdk.qzz.io
